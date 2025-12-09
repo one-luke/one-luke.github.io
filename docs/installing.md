@@ -1,4 +1,6 @@
-### 2. Installing and Booting Linux
+
+# 2. Installing and Booting Linux
+
 ![Picture of a USB drive being plugged into a computer](https://images.pexels.com/photos/20123833/pexels-photo-20123833.jpeg?cs=srgb&dl=pexels-stitch-20123833.jpg&fm=jpg)
 This section includes a step-by-step guide on how to install Linux Ubuntu. You will learn how to flash an OS to a USB Drive, how to select a boot drive, and Linux set up instructions. Please read the warnings about installing a new OS for the first time.
 
@@ -28,8 +30,7 @@ This section includes a step-by-step guide on how to install Linux Ubuntu. You w
 
 1. Shut down your computer.
 2. Power on your computer and rapidly press your BIOS key. (common BIOS keys listed above)
-!!! info
-    Each computer's BIOS is different, if you are having trouble finding your boot order settings, please reference the BIOS information for your computer or motherboard's brand online.
+    - Each computer's BIOS is different, if you are having trouble finding your boot order settings, please reference the BIOS information for your computer or motherboard's brand online.
 3. Navigate to your **Boot Order** configuration. (Will usually be under a tab or section titled **Boot**)
 4. Select your boot drive as first priority.
 5. Reboot your computer. Your boot drive's grub menu should appear.
@@ -41,9 +42,8 @@ Most of the installer prompts are straight forward for an experienced Windows us
 
 1. Connect to the internet
     - It's not necessary, but we reccomend connecting to the internet so Ubuntu can automatically install drivers for your hardware. This will save you time after the installation completes.
-
-!!! warning
-    By selecting **install Ubuntu** in the next installer prompt, your Windows OS and all its files will be permanently deleted.
+    - **WARNING:**
+        By selecting **install Ubuntu** in the next installer prompt, your Windows OS and all its files will be permanently deleted.
 2. What do you want to do with Ubuntu?
     - Ubuntu gives you the option to install or try Ubuntu. If you are unsure about Ubuntu, select **Try Ubuntu** and then install later when you're ready. Note that it will run slow on try Ubuntu, since the OS is operating off your boot drive rather than your computer.
 3. What apps would you like to install to start with?

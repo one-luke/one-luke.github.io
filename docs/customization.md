@@ -1,4 +1,4 @@
-### 4. Customization
+# 4. Customization
 
 ![Example Linux Desktop with customization](https://preview.redd.it/ht3qxm0i00x41.png?width=1080&crop=smart&auto=webp&s=8c14e34e5ffc389f2747041f8beb54bb6167a096)
 
@@ -7,10 +7,7 @@ Customization is a huge advantage of using Linux over other operating systems. D
 #### 4.1 Basic customization
 Changing the theme is a great first step in making the Linux experience custom. Updating the theme includes changing the system style, accent color, and/or the background image. To update the theme:
 
-1. Open the [Activities Overview](https://help.ubuntu.com/stable/ubuntu-help/shell-introduction.html.en#activities) by moving the mouse to the top left corner or by pressing the <kbd>Super</kbd> key
-!!! info
-    Depending on specific keyboard, the <kbd>Super</kbd> might be different, but on most keyboards, it is mapped to the <kbd>Windows</kbd> key.
-2. In the text box, type "Appearance". Then select the first result.
+Open the [Activities Overview](https://help.ubuntu.com/stable/ubuntu-help/shell-introduction.html.en#activities) by moving the mouse to the top left corner or by pressing the <kbd>Super</kbd> key. Depending on specific keyboard, the <kbd>Super</kbd> might be different, but on most keyboards, it is mapped to the <kbd>Windows</kbd> key. In the text box, type "Appearance". Then select the first result.
    
 This opens the Appearance menu in settings. 
 
@@ -31,10 +28,7 @@ These are the very basic settings that can be changed with the default Ubuntu co
 Due to the way that Ubuntu desktop is managed, we can use GNOME Tweaks to make a few more customizations.
 
 1. Open a terminal using the [Activities Overview](https://help.ubuntu.com/stable/ubuntu-help/shell-introduction.html.en#activities) screen
-2. In the terminal type the following command
-```
-sudo apt install gnome-tweaks
-```
+2. In the terminal type the following command: `sudo apt install gnome-tweaks`
 3. Type in password to give installation permissions
 
 Once GNOME tweaks is installed, open the Activites Overview screen and type "Tweaks" and launch the program. This will open the following window:
@@ -85,10 +79,7 @@ Another powerful feature of GNOME being Ubuntu's desktop manager, is that it all
 To get started:
 
 1. Open a terminal using the [Activities Overview](https://help.ubuntu.com/stable/ubuntu-help/shell-introduction.html.en#activities) screen
-2. In the terminal use the following command to install GNOME shell extensions
-```
-sudo apt install chrome-gnome-shell
-```
+2. In the terminal use the following command to install GNOME shell extensions: `sudo apt install chrome-gnome-shell`
 3. Type in your password, press enter, and wait for installation to complete
 4. Open Firefox
 5. Install the GNOME Shell Integration extension from [Firefox Browser Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/)

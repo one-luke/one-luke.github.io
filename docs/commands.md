@@ -1,4 +1,4 @@
-### 3. Basic Commands
+# 3. Basic Commands
 One of the biggest differences between Windows and Linux is the way in which you interact with your files. Windows relies mostly on graphical interfaces and using the file explorer to interact with the system, but Linux uses the command line/terminal for quicker control of your system. Once you have downloaded Linux Ubuntu, there are a multitude of commands that you must learn in order to operate and interact with your system. 
 
 

@@ -1,0 +1,7 @@
+site_name: Linux to Windows Guide
+site_url: https://one-luke.github.io/site
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  
